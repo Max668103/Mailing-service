@@ -1,0 +1,10 @@
+C:\Максим\Завдання\універ\3\operating systems\лаба 5\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Максим\Завдання\універ\3\operating systems\лаба 5\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Максим\Завдання\універ\3\operating systems\лаба 5\Project2\x64\Debug\Project2.MyForm.resources
+C:\Максим\Завдання\універ\3\operating systems\лаба 5\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Максим\Завдання\універ\3\operating systems\лаба 5\Project2\x64\Debug\Project2.exe
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project2\x64\Debug\Project2.MyForm.resources
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project2\x64\Debug\Project2.exe
